@@ -1,0 +1,6 @@
+{
+    "ServerID": "it's me, your server",
+    "ListenAddresses": ["127.0.0.1"],
+    "ListenPort": 8000,
+    "TimeOut": 3
+}

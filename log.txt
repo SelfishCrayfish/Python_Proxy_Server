@@ -1,0 +1,13 @@
+2024-09-16 09:33:21 - Message to ('127.0.0.1', 54605): New topic registered: topic1
+2024-09-16 09:33:28 - Message to ('127.0.0.1', 54604): Topic sdgsdfg doesn't exist.
+2024-09-16 09:33:42 - Message to ('127.0.0.1', 54604): Topic topic1 already exists.
+2024-09-16 09:33:50 - Message to ('127.0.0.1', 54604): Subscribed to topic: topic1
+2024-09-16 09:33:59 - Message to ('127.0.0.1', 54604): {"topic": "topic1", "payload": {"content": "wiadomosc"}}
+2024-09-16 09:34:04 - Message to ('127.0.0.1', 54605): Subscribed to topic: topic1
+2024-09-16 09:34:05 - Message to ('127.0.0.1', 54604): {"topic": "topic1", "payload": {"content": "wiadomosc"}}
+2024-09-16 09:34:05 - Message to ('127.0.0.1', 54605): {"topic": "topic1", "payload": {"content": "wiadomosc"}}
+2024-09-16 09:34:15 - Message to ('127.0.0.1', 54604): {"topic": "topic1", "payload": {"content": "wiadomosc"}}
+2024-09-16 09:34:15 - Message to ('127.0.0.1', 54605): {"topic": "topic1", "payload": {"content": "wiadomosc"}}
+2024-09-16 09:34:18 - Message to ('127.0.0.1', 54604): {"topic": "topic1", "payload": {"content": "wiadomosc"}}
+2024-09-16 09:34:18 - Message to ('127.0.0.1', 54605): {"topic": "topic1", "payload": {"content": "wiadomosc"}}
+2024-09-16 09:34:24 - Message to ('127.0.0.1', 54605): Topic topic1 has been withdrawn.
