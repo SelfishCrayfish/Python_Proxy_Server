@@ -1,1 +1,1 @@
-# python-proxy-server
+# First launch server.py, then main.py.
